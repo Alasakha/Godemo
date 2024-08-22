@@ -1,10 +1,11 @@
-// Cf converts its numeric argument to Celsius and Fahrenheit.
 package main
 
 import (
 	"fmt"
 	"os"
 	"strconv"
+
+	"github.com/Alasakha/Godemo/package/tempconv"
 )
 
 func main() {
